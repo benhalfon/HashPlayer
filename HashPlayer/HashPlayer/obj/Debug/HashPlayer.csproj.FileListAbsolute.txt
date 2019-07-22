@@ -1,0 +1,15 @@
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\bin\Debug\HashPlayer.exe.config
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\bin\Debug\HashPlayer.exe
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\bin\Debug\HashPlayer.pdb
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\HashPlayer.csprojAssemblyReference.cache
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\App.g.cs
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\HashPlayer_MarkupCompile.cache
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\HashPlayer_MarkupCompile.lref
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\MainWindow.baml
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\HashPlayer.g.resources
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\HashPlayer.Properties.Resources.resources
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\HashPlayer.csproj.GenerateResource.cache
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\HashPlayer.csproj.CoreCompileInputs.cache
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\HashPlayer.exe
+C:\Users\benha\source\repos\HashPlayer\HashPlayer\obj\Debug\HashPlayer.pdb
